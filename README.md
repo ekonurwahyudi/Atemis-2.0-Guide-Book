@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # 💡 Apa itu Atemis 2.0?
 
 Hai!! Pada situs ini, kamu dapat menemukan petunjuk dan penjelasan cara menggunakan fitur-fitur yang ada pada Atemis 2.0!
