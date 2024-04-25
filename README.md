@@ -1,6 +1,6 @@
 # 💡 Apa itu Atemis 2.0?
 
-Hai! Pada situs ini, kamu dapat menemukan petunjuk dan penjelasan cara menggunakan fitur-fitur yang ada pada Atemis 2.0!
+Hai!! Pada situs ini, kamu dapat menemukan petunjuk dan penjelasan cara menggunakan fitur-fitur yang ada pada Atemis 2.0!
 
 {% hint style="info" %}
 **New Article Available:** 💡[Tutorial Repair Management & Mengunakan Komponen](input-order/order-replacement/repair-management-and-komponen.md)
