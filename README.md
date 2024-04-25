@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: editorial
 ---
 
 # 💡 Apa itu Atemis 2.0?
