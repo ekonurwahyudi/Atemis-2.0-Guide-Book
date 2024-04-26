@@ -40,7 +40,7 @@
 
 ## 🛍️ Website Kalibrasi
 
-* [Landing Page](website-kalibrasi/landing-page.md)
+* [Website Promosi](website-kalibrasi/website-promosi.md)
 * [Managemen CMS](website-kalibrasi/managemen-cms/README.md)
   * [Ruang Lingkup](website-kalibrasi/managemen-cms/ruang-lingkup.md)
   * [Tambah Artikel](website-kalibrasi/managemen-cms/tambah-artikel.md)
