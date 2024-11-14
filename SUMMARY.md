@@ -30,6 +30,7 @@
 
 ## 🗄️ Material Request
 
+* [Apa itu Material Request (MR)?](material-request/apa-itu-material-request-mr.md)
 * [Input MR](material-request/input-mr/README.md)
   * [Material Request (MT)](material-request/input-mr/material-request-mt.md)
   * [Material Komponen (MK)](material-request/input-mr/material-komponen-mk.md)
